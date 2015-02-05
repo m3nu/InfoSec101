@@ -35,13 +35,19 @@ Source: [Snowden's website](https://edwardsnowden.com/2014/01/27/video-ard-inter
 
 ### What are the issues: Some Examples
 
+> GCHQ captured emails of journalists from top international media. Snowden files reveal emails of BBC, NY Times and more. Agency includes investigative journalists on ‘threat’ list.
+
+[Source: The Guardian](http://www.theguardian.com/uk-news/2015/jan/19/gchq-intercepted-emails-journalists-ny-times-bbc-guardian-le-monde-reuters-nbc-washington-post)
+
+---
 > The US Justice Department is scooping up data from thousands of mobile phones through devices deployed on airplanes that mimic cellphone towers, a high-tech hunt for criminal suspects that is snagging a large number of innocent Americans [..].
 
 [Source: WSJ](http://online.wsj.com/articles/americans-cellphones-targeted-in-secret-u-s-spy-program-1415917533)
 
 ---
-> [Hackers linked to North Korea?] penetrated Sony’s systems, shut down its networks and put the studio’s films online for free. [Source: Bloomberg](http://www.bloomberg.com/news/2014-12-03/sony-hackers-expose-rogen-s-pay-along-with-salaries-at-deloitte.html), [possibly] to destroy systems rather than just steal data 
+> [Hackers linked to North Korea?] penetrated Sony’s systems, shut down its networks and put the studio’s films online for free. [Possibly] to destroy systems rather than just steal data 
 
+[Source: Bloomberg](http://www.bloomberg.com/news/2014-12-03/sony-hackers-expose-rogen-s-pay-along-with-salaries-at-deloitte.html)
 [Source: BusinessWeek](http://www.businessweek.com/news/2014-12-04/sony-hack-signals-emerging-threat-to-destroy-not-just-steal-data)
 
 --- 
